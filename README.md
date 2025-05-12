@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, My name is Sebastian Varela
+
+## 🙋‍♂️ About me
+🎯 I'm a passionate QA Analyst focused on improving software quality through both manual and automated testing.
+
+## 🔭 I’m currently working on this personal project
+[Automated Testing Framework for Demoblaze (Python + Screenplay)](https://github.com/basstianVR/demoblaze-automation-selenium-screenplay)
+
+
 
 <!--
 **basstianVR/basstianVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
